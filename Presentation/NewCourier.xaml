@@ -1,0 +1,26 @@
+﻿<Window x:Class="Presentation.NewCourier"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Coursework02"
+        mc:Ignorable="d"
+        Title="New Courier" Height="450" Width="673.301">
+    <Grid>
+        <Button x:Name="Btn_Back" Content="Back" Margin="47,355,513.2,30" Click="Btn_Back_Click"/>
+        <ComboBox x:Name="TypeOfCourier" HorizontalAlignment="Left" Margin="241,78,0,0" VerticalAlignment="Top" Width="195" SelectionChanged="TypeOfCourier_SelectionChanged">
+            <ComboBoxItem Content="Van" HorizontalAlignment="Left" Width="193.6"/>
+            <ComboBoxItem Content="Cycle" HorizontalAlignment="Left" Width="193.6"/>
+            <ComboBoxItem Content="Walking" HorizontalAlignment="Left" Width="193.6"/>
+        </ComboBox>
+        <TextBlock x:Name="TypeofC" HorizontalAlignment="Left" Margin="272,38,0,0" TextWrapping="Wrap" Text="Type of Courier" VerticalAlignment="Top" FontSize="20"/>
+        <TextBlock x:Name="Capacity_txt" HorizontalAlignment="Left" Margin="229,134,0,0" TextWrapping="Wrap" Text="Capacity:" VerticalAlignment="Top" FontSize="15"/>
+        <Label x:Name="capacity" Content="Label" HorizontalAlignment="Left" Margin="342,132,0,0" VerticalAlignment="Top"/>
+        <TextBlock x:Name="DeliveryArea_txt" HorizontalAlignment="Left" Margin="198,188,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="15" Width="153"><Run Text="Delivery Area:"/><Run Text="         EH"/></TextBlock>
+        <TextBox x:Name="deliveryArea" HorizontalAlignment="Left" Height="20" Margin="347,188,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="53" SpellCheck.IsEnabled="True" TextAlignment="Center"/>
+        <Button x:Name="Btn_AddDeliveryArea" Content="Add" HorizontalAlignment="Left" Margin="418,188,0,0" VerticalAlignment="Top" Width="60" Height="18" Click="Btn_AddDeliveryArea_Click" FontSize="11"/>
+        <Button x:Name="Btn_Next" Content="Next" Margin="0,355,47.2,30" Click="Btn_Next_Click" HorizontalAlignment="Right" Width="107"/>
+        <Label x:Name="limitTxt" Content="Label" HorizontalAlignment="Left" Margin="347,220,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,39 @@
+C:\Users\sanch\Desktop\Napier University\WorkSpace Programming\C# WorkSpace\Data\bin\Debug\netstandard2.0\Data.deps.json
+C:\Users\sanch\Desktop\Napier University\WorkSpace Programming\C# WorkSpace\Data\bin\Debug\netstandard2.0\Data.dll
+C:\Users\sanch\Desktop\Napier University\WorkSpace Programming\C# WorkSpace\Data\bin\Debug\netstandard2.0\Data.pdb
+C:\Users\sanch\Desktop\Napier University\WorkSpace Programming\C# WorkSpace\Data\obj\Debug\netstandard2.0\Data.AssemblyInfoInputs.cache
+C:\Users\sanch\Desktop\Napier University\WorkSpace Programming\C# WorkSpace\Data\obj\Debug\netstandard2.0\Data.AssemblyInfo.cs
+C:\Users\sanch\Desktop\Napier University\WorkSpace Programming\C# WorkSpace\Data\obj\Debug\netstandard2.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\sanch\Desktop\Napier University\WorkSpace Programming\C# WorkSpace\Data\obj\Debug\netstandard2.0\Data.dll
+C:\Users\sanch\Desktop\Napier University\WorkSpace Programming\C# WorkSpace\Data\obj\Debug\netstandard2.0\Data.pdb
+C:\Users\sanch\Desktop\Napier University\WorkSpace Programming\C# WorkSpace\Data\bin\Debug\netstandard2.0\Business.dll
+C:\Users\sanch\Desktop\Napier University\WorkSpace Programming\C# WorkSpace\Data\bin\Debug\netstandard2.0\Business.pdb
+C:\Users\sanch\Desktop\Napier University\WorkSpace Programming\C# WorkSpace\Data\obj\Debug\netstandard2.0\Data.csproj.CopyComplete
+C:\Users\sanch\Desktop\Napier University\WorkSpace Programming\C# WorkSpace\Data\obj\Debug\netstandard2.0\Data.csproj.AssemblyReference.cache
+C:\Users\sanch\Desktop\Napier University\WorkSpace Programming\C# WorkSpace\Data\obj\Debug\netstandard2.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanch\Desktop\40486559\Data\bin\Debug\netstandard2.0\Data.deps.json
+C:\Users\sanch\Desktop\40486559\Data\bin\Debug\netstandard2.0\Data.dll
+C:\Users\sanch\Desktop\40486559\Data\bin\Debug\netstandard2.0\Data.pdb
+C:\Users\sanch\Desktop\40486559\Data\bin\Debug\netstandard2.0\Business.dll
+C:\Users\sanch\Desktop\40486559\Data\bin\Debug\netstandard2.0\Business.pdb
+C:\Users\sanch\Desktop\40486559\Data\obj\Debug\netstandard2.0\Data.csproj.AssemblyReference.cache
+C:\Users\sanch\Desktop\40486559\Data\obj\Debug\netstandard2.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanch\Desktop\40486559\Data\obj\Debug\netstandard2.0\Data.AssemblyInfoInputs.cache
+C:\Users\sanch\Desktop\40486559\Data\obj\Debug\netstandard2.0\Data.AssemblyInfo.cs
+C:\Users\sanch\Desktop\40486559\Data\obj\Debug\netstandard2.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\sanch\Desktop\40486559\Data\obj\Debug\netstandard2.0\Data.csproj.CopyComplete
+C:\Users\sanch\Desktop\40486559\Data\obj\Debug\netstandard2.0\Data.dll
+C:\Users\sanch\Desktop\40486559\Data\obj\Debug\netstandard2.0\Data.pdb
+C:\Users\sanch\Downloads\40486559\Data\bin\Debug\netstandard2.0\Data.deps.json
+C:\Users\sanch\Downloads\40486559\Data\bin\Debug\netstandard2.0\Data.dll
+C:\Users\sanch\Downloads\40486559\Data\bin\Debug\netstandard2.0\Data.pdb
+C:\Users\sanch\Downloads\40486559\Data\bin\Debug\netstandard2.0\Business.dll
+C:\Users\sanch\Downloads\40486559\Data\bin\Debug\netstandard2.0\Business.pdb
+C:\Users\sanch\Downloads\40486559\Data\obj\Debug\netstandard2.0\Data.csproj.AssemblyReference.cache
+C:\Users\sanch\Downloads\40486559\Data\obj\Debug\netstandard2.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanch\Downloads\40486559\Data\obj\Debug\netstandard2.0\Data.AssemblyInfoInputs.cache
+C:\Users\sanch\Downloads\40486559\Data\obj\Debug\netstandard2.0\Data.AssemblyInfo.cs
+C:\Users\sanch\Downloads\40486559\Data\obj\Debug\netstandard2.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\sanch\Downloads\40486559\Data\obj\Debug\netstandard2.0\Data.csproj.CopyComplete
+C:\Users\sanch\Downloads\40486559\Data\obj\Debug\netstandard2.0\Data.dll
+C:\Users\sanch\Downloads\40486559\Data\obj\Debug\netstandard2.0\Data.pdb

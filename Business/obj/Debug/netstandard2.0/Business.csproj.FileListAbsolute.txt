@@ -1,0 +1,20 @@
+C:\Users\sanch\Desktop\Napier University\WorkSpace Programming\C# WorkSpace\Business\bin\Debug\netstandard2.0\Business.deps.json
+C:\Users\sanch\Desktop\Napier University\WorkSpace Programming\C# WorkSpace\Business\bin\Debug\netstandard2.0\Business.dll
+C:\Users\sanch\Desktop\Napier University\WorkSpace Programming\C# WorkSpace\Business\bin\Debug\netstandard2.0\Business.pdb
+C:\Users\sanch\Desktop\Napier University\WorkSpace Programming\C# WorkSpace\Business\obj\Debug\netstandard2.0\Business.AssemblyInfoInputs.cache
+C:\Users\sanch\Desktop\Napier University\WorkSpace Programming\C# WorkSpace\Business\obj\Debug\netstandard2.0\Business.AssemblyInfo.cs
+C:\Users\sanch\Desktop\Napier University\WorkSpace Programming\C# WorkSpace\Business\obj\Debug\netstandard2.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\sanch\Desktop\Napier University\WorkSpace Programming\C# WorkSpace\Business\obj\Debug\netstandard2.0\Business.dll
+C:\Users\sanch\Desktop\Napier University\WorkSpace Programming\C# WorkSpace\Business\obj\Debug\netstandard2.0\Business.pdb
+C:\Users\sanch\Desktop\Napier University\WorkSpace Programming\C# WorkSpace\Business\obj\Debug\netstandard2.0\Business.csproj.AssemblyReference.cache
+C:\Users\sanch\Desktop\Napier University\WorkSpace Programming\C# WorkSpace\Business\obj\Debug\netstandard2.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanch\Desktop\40486559\Business\bin\Debug\netstandard2.0\Business.deps.json
+C:\Users\sanch\Desktop\40486559\Business\bin\Debug\netstandard2.0\Business.dll
+C:\Users\sanch\Desktop\40486559\Business\bin\Debug\netstandard2.0\Business.pdb
+C:\Users\sanch\Desktop\40486559\Business\obj\Debug\netstandard2.0\Business.csproj.AssemblyReference.cache
+C:\Users\sanch\Desktop\40486559\Business\obj\Debug\netstandard2.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanch\Desktop\40486559\Business\obj\Debug\netstandard2.0\Business.AssemblyInfoInputs.cache
+C:\Users\sanch\Desktop\40486559\Business\obj\Debug\netstandard2.0\Business.AssemblyInfo.cs
+C:\Users\sanch\Desktop\40486559\Business\obj\Debug\netstandard2.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\sanch\Desktop\40486559\Business\obj\Debug\netstandard2.0\Business.dll
+C:\Users\sanch\Desktop\40486559\Business\obj\Debug\netstandard2.0\Business.pdb

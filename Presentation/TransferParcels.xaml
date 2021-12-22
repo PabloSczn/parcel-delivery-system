@@ -1,0 +1,18 @@
+﻿<Window x:Class="Presentation.TransferParcels"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Coursework02"
+        mc:Ignorable="d"
+        Title="TransferParcels" Height="488.374" Width="687.802">
+    <Grid>
+        <ListBox x:Name="LstCouriers1" HorizontalAlignment="Left" Height="357" Margin="45,50,0,0" VerticalAlignment="Top" Width="206" SelectionChanged="LstCouriers1_SelectionChanged"/>
+        <ListBox x:Name="LstCouriers2" HorizontalAlignment="Left" Height="357" Margin="432,50,0,0" VerticalAlignment="Top" Width="206" SelectionChanged="LstCouriers2_SelectionChanged"/>
+        <Button x:Name="Btn_Transfer" Content="Transfer &gt;&gt;" HorizontalAlignment="Left" Margin="298,209,0,0" VerticalAlignment="Top" Width="94" Height="29" Click="Btn_Transfer_Click"/>
+        <TextBlock HorizontalAlignment="Left" Margin="127,412,0,0" TextWrapping="Wrap" Text="From" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="535,415,0,0" TextWrapping="Wrap" Text="To" VerticalAlignment="Top"/>
+        <Button x:Name="Btn_Home" Content="Home Page" HorizontalAlignment="Left" Margin="298,415,0,0" VerticalAlignment="Top" Width="94" Height="33" Click="Btn_Home_Click"/>
+
+    </Grid>
+</Window>
