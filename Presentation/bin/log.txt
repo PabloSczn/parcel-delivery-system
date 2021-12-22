@@ -18,3 +18,4 @@
 05/12/2021 14:49:53 New Parcel Added (EH1 2SD, 'xcvc') Allocated to Courier 1
 05/12/2021 14:54:12 New Courier Added - id:1, type=Walking
 05/12/2021 14:54:19 New Courier Added - id:2, type=Van
+22/12/2021 20:59:21 New Courier Added - id:2, type=Van

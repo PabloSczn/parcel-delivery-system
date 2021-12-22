@@ -201,11 +201,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sanch\\Downloads\\40486559\\Data\\Data.csproj",
+      "projectUniqueName": "C:\\Users\\sanch\\Downloads\\ParcelTrack\\Data\\Data.csproj",
       "projectName": "Data",
-      "projectPath": "C:\\Users\\sanch\\Downloads\\40486559\\Data\\Data.csproj",
+      "projectPath": "C:\\Users\\sanch\\Downloads\\ParcelTrack\\Data\\Data.csproj",
       "packagesPath": "C:\\Users\\sanch\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sanch\\Downloads\\40486559\\Data\\obj\\",
+      "outputPath": "C:\\Users\\sanch\\Downloads\\ParcelTrack\\Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sanch\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -222,8 +222,8 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "projectReferences": {
-            "C:\\Users\\sanch\\Downloads\\40486559\\Business\\Business.csproj": {
-              "projectPath": "C:\\Users\\sanch\\Downloads\\40486559\\Business\\Business.csproj"
+            "C:\\Users\\sanch\\Downloads\\ParcelTrack\\Business\\Business.csproj": {
+              "projectPath": "C:\\Users\\sanch\\Downloads\\ParcelTrack\\Business\\Business.csproj"
             }
           }
         }
