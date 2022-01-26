@@ -4,6 +4,7 @@
 
 ### Edinburgh Napier University
 
-This program manages the allocation of parcels to couriers for deliveries.
+• This program manages the allocation of parcels to couriers for deliveries.
+• 3-layer project
 
 log.txt and csv are located in Presentation/bin
