@@ -8,5 +8,3 @@
 
 
 • 3-layer project
-
-log.txt and csv are located in Presentation/bin
