@@ -9,4 +9,4 @@
 • 3-layer project
 
 
-[/Main Window.png]
+<img src="/Main Window.png" align="center" width="400" hspace="10" vspace="10">
