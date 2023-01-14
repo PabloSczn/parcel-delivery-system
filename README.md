@@ -1,8 +1,7 @@
-# ParcelTrack - 40486559 Pablo Sanchez Narro
+# ParcelTrack - Pablo Sanchez Narro
 
-## Object Oriented Development Software 2021
+## Object Oriented Development Software Project
 
-### Edinburgh Napier University
 
 • This program manages the allocation of parcels to couriers for deliveries.
 
